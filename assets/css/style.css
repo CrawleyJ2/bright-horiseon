@@ -59,6 +59,7 @@ p {
     background-position: center;
 }
 
+/* benefits style start */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -85,7 +86,9 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/* benefit style end */
 
+/* service style start */
 .services {
     width: 75%;
     display: inline-block;
@@ -104,15 +107,14 @@ p {
 
 .service img {
     max-height: 200px;
-    width: 200px;
-    float: left;
+    margin-right: 25px;
 }
 
 .service-desc h2 {
     margin-bottom: 20px;
     font-size: 36px;
-    width: 65%;
 }
+/* service style end */
 
 footer {
     padding: 30px;
